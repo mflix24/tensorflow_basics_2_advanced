@@ -1,0 +1,1 @@
+This is a repository for understanding the basic concept of the Tensorflow to its advanced level. Here we
